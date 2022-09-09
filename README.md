@@ -22,5 +22,6 @@ This is a Spring Boot project implement functions allowing companies to distribu
 - Run ChallengeApplication.java as a Java application 
 - Launch 'mvn clean install' to build the project and generate a jar with embedded dependencies
 - Then, you can use APIs to creat objects ans deposit gifts/meals (default port : 9090)
--Exemple :
+- Exemple :
+
 This API : localhost:9090/gift/1/3/500 send a deposit gift of 500 euros from the company with ID=3 to user with ID=1 
