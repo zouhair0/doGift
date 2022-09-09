@@ -2,8 +2,7 @@
 
 Companies can use Wedoogift services to distribute:
 
--Gift deposits
--Meal deposits
+Gift deposits and Meal deposits
 
 
 Gift deposits has 365 days lifespan, beyond this period it will no longer be counted in the user's balance.
@@ -16,8 +15,7 @@ Meal deposit works like the Gift deposit excepting for the end date. In fact mea
 example:
 Jessica receives a Meal distribution from Apple with the amount of $50 on 01/01/2020, the distribution ends on 02/28/2021.
 
-Implement one or two functions allowing companies to distribute gift and meal deposits to a user if the company balance allows it.
-Implement a function to calculate the user's balance.
+This is a Spring Boot project implement functions allowing companies to distribute gift and meal deposits to a user if the company balance allows it. And calculate the user's balance.
 
 ## Run / Build (Spring Boot project)
 - Import the project in Eclipse / Intellij as a maven project
